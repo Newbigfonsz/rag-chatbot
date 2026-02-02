@@ -4,4 +4,3 @@
 terraform/builds/
 __pycache__/
 create_index.py
-index-config.json
